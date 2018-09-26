@@ -89,7 +89,6 @@
 ## 安装
 
 ```shell
-$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
 $ npm install
 ```
 
